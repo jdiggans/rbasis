@@ -1,0 +1,8 @@
+Package: rbasis
+Title: R interface to Basis API
+Version: 0.1
+Authors@R: "James Diggans <jdiggans@gmail.com>"
+Description: R interface to Basis API
+Depends: R (>= 3.1.0)
+License: GPL-3
+LazyData: TRUE
